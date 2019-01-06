@@ -1,5 +1,6 @@
 #include <stdint.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 /*
   Examinați codul assembler gennerat pentru cele 3 cazuri: 
